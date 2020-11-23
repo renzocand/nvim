@@ -1,0 +1,2 @@
+# nvim
+mi configuracion nvim
